@@ -26,8 +26,6 @@ class School
   def sort
     @roster.each do |grade, names_array|
       grade.sort
-      
-      names_array = names_array.sort
     end
   end
 
