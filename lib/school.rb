@@ -1,10 +1,12 @@
 # code here!
 class School
 
-  ROSTER = []
-
  def initialize(school)
    @school = school
+ end
+
+ def roster
+   ROSTER = []
  end
 
 end
