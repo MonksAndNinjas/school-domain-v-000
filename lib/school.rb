@@ -6,7 +6,7 @@ class School
  end
 
  def roster
-   ROSTER = []
+   roster = []
  end
 
 end
