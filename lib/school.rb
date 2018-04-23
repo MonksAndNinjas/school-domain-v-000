@@ -8,6 +8,7 @@ class School
 
  def roster(school)
    roster
+ end
 
 
 end
