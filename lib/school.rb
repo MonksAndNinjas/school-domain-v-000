@@ -6,13 +6,13 @@ class School
  end
 
  def roster
-   roster = {}
+   @roster = {}
  end
 
  def add_student(name, grade)
    grade = []
    grade << name
-   roster = {grade => name}
+   @roster = {grade => name}
  end
 
 end
