@@ -1,5 +1,6 @@
 # code here!
 class School
 
- NEW = []
+ def initialize(roster)
+   NEW = []
 end
