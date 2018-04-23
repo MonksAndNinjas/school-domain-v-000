@@ -1,7 +1,7 @@
 # code here!
 class School
 
- def initialize(roster)
-   NEW = []
+ def initialize(school)
+   @school = school
  end
 end
